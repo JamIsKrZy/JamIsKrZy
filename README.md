@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm James Samson</h1>
+<h1 align="center">Hi 👋, I'm JusMe</h1>
 <h3 align="center">Currently learning on blockchain development</h3>
 
 - 🌱 I’m currently learning **Blockchain, Rust, Solidity**
