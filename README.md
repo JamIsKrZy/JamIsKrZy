@@ -8,50 +8,6 @@
 
 <br>
 
-<div align="center"
-style="
-border: 2px solid black;
-border-radius: 5px;
-padding: 1rem;
-background: #1e2229;
-overflow-wrap: break-word;
-">
-Currently learning on Blockchain development 
-and Backend Development 
-</div>
-
-<div class="tech-stack">
-    <h2>Tech Stacks</h2>
-    <div class="col-2"></div>
-    <div class="container-display">
-        <h3>Languages</h3>
-        <div class="list-container"> 
-            <ul class="language-list">
-                <li>
-                    <img src="assets/Rust_programming_language_black_logo.svg.png" alt="blank"></img>
-                    <p>Rust</p>
-                </li>
-                <li>
-                    <img src="assets/Rust_programming_language_black_logo.svg.png" alt="blank"></img>
-                    <p>Java</p>
-                </li>
-                <li>
-                    <img src="assets/Rust_programming_language_black_logo.svg.png" alt="blank"></img>
-                    <p>C</p>
-                </li>
-                <li>
-                    <img src="assets/Rust_programming_language_black_logo.svg.png" alt="blank"></img>
-                    <p>Javascript</p>
-                </li>
-                <li>
-                    <img src="assets/Rust_programming_language_black_logo.svg.png" alt="blank"></img>
-                    <p>Typescript</p>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
