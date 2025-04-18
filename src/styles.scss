@@ -1,0 +1,83 @@
+
+
+
+$color-1: #324342;
+
+@mixin reset-space {
+    padding: 0;
+    margin: 0;
+}
+
+@mixin flex-container{
+    display: flex;
+}
+
+@mixin skill-icon-size{
+    width: 30px;
+    height: 30px;
+}
+
+
+.tech-stack{
+    align-items: center;
+
+    h2 {
+        text-align: center;
+    }
+}
+
+// This will have 2 column
+// left - Programming languages
+// right - frameworks
+.col-2{
+
+}
+
+.container-display {
+    background: #28323a;
+    margin: 0 2rem;
+    padding: 0.3rem 0.3rem;
+    
+
+    h3 {
+        text-align: center;
+    }
+} 
+
+.list-container {
+    background-color: #1c1f1e;
+    border: 2px solid black;
+    border-radius: 3px;
+    padding: 0.5rem;
+}
+
+// this class will contain the attributes 
+// for an ul
+.language-list {
+    display: flex;
+    flex-wrap: wrap; // Optional: wraps list items to next line if container is small
+    gap: 0.2rem;
+  
+    li {
+      list-style-type: none;
+      background-color: #adb9b9;
+      border-radius: 3px;
+      border: 1px solid black;
+      padding: 0.2rem 0.7rem;
+      display: flex; // 🔥 This makes img and p sit side by side
+      align-items: center; // vertically center them
+  
+      img {
+        @include skill-icon-size; // make sure this gives the image a size
+        margin-right: 0.5rem; // spacing between image and text
+      }
+  
+      p {
+        margin: 0;
+        color: black;
+        font-weight: bold;
+      }
+    }
+  }
+
+

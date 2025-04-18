@@ -1,0 +1,47 @@
+.tech-stack {
+  align-items: center;
+}
+.tech-stack h2 {
+  text-align: center;
+}
+
+.container-display {
+  background: #28323a;
+  margin: 0 2rem;
+  padding: 0.3rem 0.3rem;
+}
+.container-display h3 {
+  text-align: center;
+}
+
+.list-container {
+  background-color: #1c1f1e;
+  border: 2px solid black;
+  border-radius: 3px;
+  padding: 0.5rem;
+}
+
+.language-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.2rem;
+}
+.language-list li {
+  list-style-type: none;
+  background-color: #adb9b9;
+  border-radius: 3px;
+  border: 1px solid black;
+  padding: 0.2rem 0.7rem;
+  display: flex;
+  align-items: center;
+}
+.language-list li img {
+  width: 30px;
+  height: 30px;
+  margin-right: 0.5rem;
+}
+.language-list li p {
+  margin: 0;
+  color: black;
+  font-weight: bold;
+}/*# sourceMappingURL=styles.css.map */
