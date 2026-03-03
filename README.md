@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm JusMe</h1>
 
 
-- 🌱 I’m currently learning **Blockchain, Rust, Solidity**
-
 - 📫 How to reach me **jamesosamson322@gmail.com**
 
 <br>
