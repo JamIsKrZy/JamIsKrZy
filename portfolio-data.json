@@ -1,0 +1,20 @@
+{
+  "name": "John Doe",
+  "title": "Software Engineer",
+  "summary": "Experienced software engineer with a passion for creating innovative solutions.",
+
+  "skills": [
+    {
+      "img": "assets/playwriht.png",
+      "label": "JavaScript"
+    },
+    {
+      "img": "assets/react.png",
+      "label": "React"
+    },
+    {
+      "img": "assets/nodejs.png",
+      "label": "Node.js"
+    }
+  ]
+}
