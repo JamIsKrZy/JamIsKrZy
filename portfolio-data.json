@@ -5,16 +5,53 @@
 
   "skills": [
     {
-      "img": "assets/playwriht.png",
-      "label": "JavaScript"
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+      "name": "NestJs"
     },
     {
-      "img": "assets/react.png",
-      "label": "React"
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+      "name": "NestJs"
     },
     {
-      "img": "assets/nodejs.png",
-      "label": "Node.js"
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+      "name": "NestJs"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+      "name": "NestJs"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+      "name": "NestJs"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+      "name": "NestJs"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+      "name": "NestJs"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+      "name": "NestJs"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+      "name": "NestJs"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+      "name": "NestJs"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+      "name": "NestJs"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg",
+      "name": "NestJs"
     }
+    
   ]
 }
